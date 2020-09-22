@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+    <testsuite name="sadsaokdasok;" tests="5" failures="0" skipped="0">
+        <properties>
+            <property name="URI" value="C:/Users/SebastianS/Downloads/sbm-master/features/test.feature">
+            </property>
+        </properties>
+        <testcase name="Given that I am on the new site" classname="sadsaokdasok;" time="4.8248987">
+        </testcase>
+        <testcase name="When I go to incurenses" classname="sadsaokdasok;" time="0.748498999">
+        </testcase>
+        <testcase name="And make sure there are at least three incurenses" classname="sadsaokdasok;" time="0.0391002">
+        </testcase>
+        <testcase name="And go to the carhelp incurense" classname="sadsaokdasok;" time="0.369461">
+        </testcase>
+        <testcase name="Then I can go to order now" classname="sadsaokdasok;" time="0.4194522">
+        </testcase>
+    </testsuite>
+</testsuites>
